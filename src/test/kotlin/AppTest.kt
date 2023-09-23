@@ -5,6 +5,6 @@ class AppTest {
 
     @Test
     fun testHelloWorld() {
-        assertEquals("Hello, World!", "Hello, World!")
+        assertEquals("Hello, World!", "Hello, Worl2!")
     }
 }
